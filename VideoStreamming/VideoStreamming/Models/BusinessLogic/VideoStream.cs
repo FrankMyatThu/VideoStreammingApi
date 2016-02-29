@@ -20,7 +20,7 @@ namespace VideoStreamming.Models.BusinessLogic
         public async void WriteToStream(Stream outputStream, HttpContent content, TransportContext context)
         {
             try
-            {   
+            {
                 using (var video = File.Open(_filename, FileMode.Open, FileAccess.Read, FileShare.Read))
                 {
                     var length = (int)video.Length;
@@ -44,5 +44,33 @@ namespace VideoStreamming.Models.BusinessLogic
                 outputStream.Close();
             }
         }
+
+        //public void WriteToStream(Stream outputStream, HttpContent content, TransportContext context)
+        //{
+        //    try
+        //    {
+        //        using (var video = File.Open(_filename, FileMode.Open, FileAccess.Read, FileShare.Read))
+        //        {
+        //            var length = (int)video.Length;
+        //            var buffer = new byte[length];
+        //            var bytesRead = 1;
+
+        //            while (length > 0 && bytesRead > 0)
+        //            {
+        //                bytesRead = video.Read(buffer, 0, Math.Min(length, buffer.Length));
+        //                outputStream.WriteAsync(buffer, 0, bytesRead);
+        //                length -= bytesRead;
+        //            }
+        //        }
+        //    }
+        //    catch (HttpException ex)
+        //    {
+        //        return;
+        //    }
+        //    finally
+        //    {
+        //        outputStream.Close();
+        //    }
+        //}
     }
 }
