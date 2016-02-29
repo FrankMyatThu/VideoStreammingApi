@@ -20,8 +20,8 @@ namespace VideoStreamming.Models.BusinessLogic
         public async void WriteToStream(Stream outputStream, HttpContent content, TransportContext context)
         {
             try
-            {
-                using (var video = File.Open(_filename, FileMode.Open, FileAccess.Read))
+            {   
+                using (var video = File.Open(_filename, FileMode.Open, FileAccess.Read, FileShare.Read))
                 {
                     var length = (int)video.Length;
                     var buffer = new byte[length];

@@ -1,0 +1,14 @@
+D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\bin\VideoStreamming.dll.config
+D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\bin\VideoStreamming.dll
+D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\bin\VideoStreamming.pdb
+D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\bin\Newtonsoft.Json.dll
+D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\bin\System.Net.Http.Formatting.dll
+D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\bin\System.Web.Http.dll
+D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\bin\System.Web.Http.WebHost.dll
+D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\bin\Newtonsoft.Json.xml
+D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\bin\System.Net.Http.Formatting.xml
+D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\bin\System.Web.Http.xml
+D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\bin\System.Web.Http.WebHost.xml
+D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\obj\Debug\VideoStreamming.csprojResolveAssemblyReference.cache
+D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\obj\Debug\VideoStreamming.dll
+D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\obj\Debug\VideoStreamming.pdb
