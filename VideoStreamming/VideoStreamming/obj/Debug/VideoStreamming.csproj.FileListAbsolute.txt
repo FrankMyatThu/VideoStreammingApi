@@ -9,6 +9,5 @@ D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\bin\Newt
 D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\bin\System.Net.Http.Formatting.xml
 D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\bin\System.Web.Http.xml
 D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\bin\System.Web.Http.WebHost.xml
-D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\obj\Debug\VideoStreamming.csprojResolveAssemblyReference.cache
 D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\obj\Debug\VideoStreamming.dll
 D:\05.Project\GitHub\VideoStreammingApi\VideoStreamming\VideoStreamming\obj\Debug\VideoStreamming.pdb

@@ -73,6 +73,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="View\Music.mp4" />
     <Content Include="View\Test.html" />
     <Content Include="Web.config" />
   </ItemGroup>
